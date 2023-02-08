@@ -1,6 +1,6 @@
-# ![TP FrontEnd film shooting location]()
+# ![TP FrontEnd : Film Shooting Location]()
     
-## to run the app, once the back-end is running, do : 
+## To run the app, once the back-end is running, do : 
 
 ```bash
 npm install
